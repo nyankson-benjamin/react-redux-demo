@@ -4,7 +4,10 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { Provider } from "react-redux";
-import store from "./Redux/store";
+import cakeStore from "./Redux/store";
+import iceCreamStore from "./Redux/TRIAL/store";
+// import store from "./Redux/TRIAL/combinedReducer";
+import store from "./Redux/SHOP/store";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <Provider store={store}>
