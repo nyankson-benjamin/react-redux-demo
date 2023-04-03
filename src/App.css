@@ -29,9 +29,9 @@
 }
 
 .App-header button{
- width: 100%;
+ /* width: 100%; */
  height: 50px;
- font-size: 25px;
+ font-size: 15px;
 }
 @keyframes App-logo-spin {
   from {

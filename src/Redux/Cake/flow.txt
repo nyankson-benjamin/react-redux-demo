@@ -1,0 +1,6 @@
+<> Define the type of action ====> cake cakeTypes
+<> Define the reducer by importing the type of action
+<> Define the action by also importing the type of action
+<> Define the store by importing the reducer
+<> Export the action
+<> And import it to the component you want to use it
